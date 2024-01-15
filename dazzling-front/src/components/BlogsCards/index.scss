@@ -1,0 +1,12 @@
+.blogs_cards{
+    width: 60%;
+    .blogs_card{
+        &_content{
+            display: flex;
+            align-items: flex-start;
+            img{
+                width: 60%;
+            }
+        }
+    }
+}

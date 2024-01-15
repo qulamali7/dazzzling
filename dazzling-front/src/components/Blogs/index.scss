@@ -1,0 +1,15 @@
+#blogs{
+    padding: 120px 0px;
+    .blogs_container{
+        max-width: 1200px;
+        margin: auto;
+        .blogs_content{
+            display: flex;
+            align-items: flex-start;
+            justify-content: space-between;
+            .search{
+                width: 30%;
+            }
+        }
+    }
+}
